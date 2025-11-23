@@ -1,5 +1,7 @@
 # TopoMatchSelector
 
+<img width="64" height="64" alt="TopoMatchSelector" src="https://github.com/user-attachments/assets/9bc7beca-cde8-40ee-b50c-679865858a58" />
+
 **TopoMatchSelector** is a FreeCAD macro designed to help users select more stable geometric references across the feature history of a PartDesign body. By dynamically detecting exact and similar matches for faces, edges, and vertices, the macro empowers users to anchor their dependencies to earlier features—minimizing risk of topological naming issues (TNP).
 
 FreeCAD Forum discussion: https://forum.freecad.org/viewtopic.php?t=98205
